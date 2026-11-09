@@ -3,4 +3,4 @@ uvicorn[standard]
 curl_cffi
 selectolax
 chompjs
-xhamster_api @ git+https://github.com/EchterAlsFake/xhamster_api.git
+git+https://github.com/EchterAlsFake/xhamster_api.git
