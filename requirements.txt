@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+curl_cffi
+selectolax
+chompjs
+xhamster_api
